@@ -32,8 +32,8 @@ ATmega16/32 Development Board provides a very simple and cost effective platform
 - [IMAGES](#IMAGES)
 - [PCB](#PCB)
 - [DOWNLOAD](#DOWNLOAD)
-  - <a href="https://https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/PCB1.PcbDoc">Download PCB file</a>
-  - <a href="https://https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/DevelopmentBoard.pdf">Download PDF file</a>
+  - <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/PCB1.PcbDoc">Download PCB file</a>
+  - <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/DevelopmentBoard.pdf">Download PDF file</a>
 - [SUPPOERT](#SUPPOERT)
 - [LICENSE](#LICENSE)
 
@@ -80,10 +80,10 @@ for more videos see <a href="https://www.aparat.com/v/IBJ4O">This Link</a>
 
 ## **DOWNLOAD**
 
-- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/PCB1.PcbDoc">Download PCB file</a>
+- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/PCB1.PcbDoc">Download PCB file</a>  
 :triangular_flag_on_post: You can use <a href="https://www.altium.com/viewer/">This Link</a>  to open it online!  :wink:
 
-- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/DevelopmentBoard.pdf">Download this file as a PDF</a>
+- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/DevelopmentBoard.pdf">Download this file as a PDF</a>
 
 
 ## **SUPPOERT**
