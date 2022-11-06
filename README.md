@@ -10,17 +10,17 @@
 
 ATmega16/32 Development Board provides a very simple and cost effective platform for prototyping solution.The compact design provides connection to all the pins of the microcontroller for the user.
 
-:heavy_check_mark: Prototyping solution available for 40-pin ATmega series AVR microcontroller from ATMEL  
-:heavy_check_mark: All the four ports available to the user via standard 10 pin box header connector with supply of 5 VDC for interfacing circuits  
-:heavy_check_mark: Onboard reset switch for easy reset of the microcontroller  
-:heavy_check_mark: ISP (In circuit Serial Programming) connector available for chips with ISP support  
-:heavy_check_mark: 8 MHz Crystal onboard  
-:heavy_check_mark: UART level shifter circuit using MAX232 IC, onboard for easy connection of the board to the RS232 devices  
-:heavy_check_mark: Jumper selectable connection available for connecting the UART level shifter to the port pins  
-:heavy_check_mark: Onboard voltage regulator available for sourcing regulated 5V @ up to 0.6A voltage to the board and connecting circuit  
-:heavy_check_mark: Power-On LED indicator  
-:heavy_check_mark: Four mounting holes of 3.2 mm  
-:heavy_check_mark: PCB dimensions 64 mm x 101 mm  
+<span>&#9989;</span> Prototyping solution available for 40-pin ATmega series AVR microcontroller from ATMEL  
+<span>&#9989;</span> All the four ports available to the user via standard 10 pin box header connector with supply of 5 VDC for interfacing circuits  
+<span>&#9989;</span> Onboard reset switch for easy reset of the microcontroller  
+<span>&#9989;</span> ISP (In circuit Serial Programming) connector available for chips with ISP support  
+<span>&#9989;</span> 8 MHz Crystal onboard  
+<span>&#9989;</span> UART level shifter circuit using MAX232 IC, onboard for easy connection of the board to the RS232 devices  
+<span>&#9989;</span> Jumper selectable connection available for connecting the UART level shifter to the port pins  
+<span>&#9989;</span> Onboard voltage regulator available for sourcing regulated 5V @ up to 0.6A voltage to the board and connecting circuit  
+<span>&#9989;</span> Power-On LED indicator  
+<span>&#9989;</span> Four mounting holes of 3.2 mm  
+<span>&#9989;</span> PCB dimensions 64 mm x 101 mm  
 
 ---
 ## **Table of contents**
@@ -79,7 +79,7 @@ for more videos see <a href="https://www.aparat.com/v/IBJ4O">This Link</a>
 ## **DOWNLOAD**
 
 - <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/PCB1.PcbDoc">Download PCB file</a>  
-:triangular_flag_on_post: You can use <a href="https://www.altium.com/viewer/">This Link</a>  to open it online!  :wink:
+<span>&#9889;</span> You can use <a href="https://www.altium.com/viewer/">This Link</a>  to open it online!  <span>&#127773;</span>
 
 - <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MaryamSaeedmehr/AVR_DevelopementBoard/blob/master/DevelopmentBoard.pdf">Download this file as a PDF</a>
 
